@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+}
+.heading {
+  font-size: 2rem;
+  margin-top: 60px;
+}
+
+.emojis {
+  margin-right: 0.1in;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.output {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.input {
+  padding: 1rem 5rem;
+  width: 80%;
+  font-size: 2rem;
+}
