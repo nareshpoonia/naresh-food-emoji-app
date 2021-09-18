@@ -8,7 +8,11 @@ export default function App() {
     "🥡": "Takeout Food",
     "🍜": "Steaming Bowl",
     "🦐": "Shrimp",
+    "🫐 ": "Blueberries",
     "🍛": "Curry Rice",
+    "🍈": "Melon",
+    "🍒": "Cherries",
+    "🍑": "Peach",
   };
 
   var foodEmojisInDatabase = Object.keys(foodDictionary);
